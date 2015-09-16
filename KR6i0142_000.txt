@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說淨飯王般涅槃經
+#+DATE: 2015-08-30 20:10:57.141004
+#+PROPERTY: JUAN 0
